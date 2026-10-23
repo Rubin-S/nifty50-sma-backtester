@@ -1,0 +1,384 @@
+{
+  "period": [
+    "2018-01-01",
+    "2026-05-15"
+  ],
+  "missing_policy": "proxy",
+  "fast": 20,
+  "slow": 50,
+  "missing_price_symbols": [
+    "HDFC"
+  ],
+  "corporate_action_overrides": [
+    {
+      "symbol": "TMPV",
+      "date": "2025-10-14",
+      "raw_return": -0.40151340304586225,
+      "used": 0.0
+    }
+  ],
+  "index_changes": {
+    "joined": 21,
+    "left": 21,
+    "events": [
+      {
+        "symbol": "BAJAJFINSV",
+        "date": "2018-04-02",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "GRASIM",
+        "date": "2018-04-02",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "TITAN",
+        "date": "2018-04-02",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "AMBUJACEM",
+        "date": "2018-04-02",
+        "source": "snapshot_floor",
+        "event": "left"
+      },
+      {
+        "symbol": "AUROPHARMA",
+        "date": "2018-04-02",
+        "source": "snapshot_floor",
+        "event": "left"
+      },
+      {
+        "symbol": "BOSCHLTD",
+        "date": "2018-04-02",
+        "source": "snapshot_floor",
+        "event": "left"
+      },
+      {
+        "symbol": "JSWSTEEL",
+        "date": "2018-09-28",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "LUPIN",
+        "date": "2018-09-28",
+        "source": "snapshot_floor",
+        "event": "left"
+      },
+      {
+        "symbol": "BRITANNIA",
+        "date": "2019-03-29",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "HINDPETRO",
+        "date": "2019-03-29",
+        "source": "press_release",
+        "event": "left"
+      },
+      {
+        "symbol": "NESTLEIND",
+        "date": "2019-09-27",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "SAMMAANCAP",
+        "date": "2019-09-27",
+        "source": "press_release",
+        "event": "left"
+      },
+      {
+        "symbol": "SHREECEM",
+        "date": "2020-03-27",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "YESBANK",
+        "date": "2020-03-27",
+        "source": "press_release",
+        "event": "left"
+      },
+      {
+        "symbol": "HDFCLIFE",
+        "date": "2020-07-31",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "VEDL",
+        "date": "2020-07-31",
+        "source": "press_release",
+        "event": "left"
+      },
+      {
+        "symbol": "DIVISLAB",
+        "date": "2020-09-25",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "SBILIFE",
+        "date": "2020-09-25",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "INDUSTOWER",
+        "date": "2020-09-25",
+        "source": "snapshot_floor",
+        "event": "left"
+      },
+      {
+        "symbol": "ZEEL",
+        "date": "2020-09-25",
+        "source": "press_release",
+        "event": "left"
+      },
+      {
+        "symbol": "TATACONSUM",
+        "date": "2021-03-31",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "GAIL",
+        "date": "2021-03-31",
+        "source": "snapshot_floor",
+        "event": "left"
+      },
+      {
+        "symbol": "APOLLOHOSP",
+        "date": "2022-03-31",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "IOC",
+        "date": "2022-03-31",
+        "source": "press_release",
+        "event": "left"
+      },
+      {
+        "symbol": "ADANIENT",
+        "date": "2022-09-30",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "SHREECEM",
+        "date": "2022-09-30",
+        "source": "press_release",
+        "event": "left"
+      },
+      {
+        "symbol": "LTM",
+        "date": "2023-07-13",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "HDFC",
+        "date": "2023-07-13",
+        "source": "snapshot_floor",
+        "event": "left"
+      },
+      {
+        "symbol": "SHRIRAMFIN",
+        "date": "2024-03-28",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "UPL",
+        "date": "2024-03-28",
+        "source": "press_release",
+        "event": "left"
+      },
+      {
+        "symbol": "BEL",
+        "date": "2024-09-30",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "TRENT",
+        "date": "2024-09-30",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "DIVISLAB",
+        "date": "2024-09-30",
+        "source": "press_release",
+        "event": "left"
+      },
+      {
+        "symbol": "LTM",
+        "date": "2024-09-30",
+        "source": "press_release",
+        "event": "left"
+      },
+      {
+        "symbol": "ETERNAL",
+        "date": "2025-03-28",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "JIOFIN",
+        "date": "2025-03-28",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "BPCL",
+        "date": "2025-03-28",
+        "source": "snapshot_floor",
+        "event": "left"
+      },
+      {
+        "symbol": "BRITANNIA",
+        "date": "2025-03-28",
+        "source": "press_release",
+        "event": "left"
+      },
+      {
+        "symbol": "INDIGO",
+        "date": "2025-09-30",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "MAXHEALTH",
+        "date": "2025-09-30",
+        "source": "press_release",
+        "event": "joined"
+      },
+      {
+        "symbol": "HEROMOTOCO",
+        "date": "2025-09-30",
+        "source": "snapshot_floor",
+        "event": "left"
+      },
+      {
+        "symbol": "INDUSINDBK",
+        "date": "2025-09-30",
+        "source": "snapshot_floor",
+        "event": "left"
+      }
+    ]
+  },
+  "current_list_not_in_pit_at_start": [
+    "ADANIENT",
+    "APOLLOHOSP",
+    "BAJAJFINSV",
+    "BEL",
+    "BSE",
+    "ETERNAL",
+    "GRASIM",
+    "HDFCLIFE",
+    "INDIGO",
+    "JIOFIN",
+    "JSWSTEEL",
+    "MAXHEALTH",
+    "NESTLEIND",
+    "SBILIFE",
+    "SHRIRAMFIN",
+    "TATACONSUM",
+    "TITAN",
+    "TRENT"
+  ],
+  "pit_at_start_not_in_current_list": [
+    "AMBUJACEM",
+    "AUROPHARMA",
+    "BOSCHLTD",
+    "BPCL",
+    "GAIL",
+    "HDFC",
+    "HEROMOTOCO",
+    "HINDPETRO",
+    "INDUSINDBK",
+    "INDUSTOWER",
+    "IOC",
+    "LUPIN",
+    "SAMMAANCAP",
+    "UPL",
+    "VEDL",
+    "WIPRO",
+    "YESBANK",
+    "ZEEL"
+  ],
+  "results": {
+    "pit/sma": {
+      "start": "2018-01-01",
+      "end": "2026-05-15",
+      "days": 2066,
+      "total_return": 0.8696925280717629,
+      "cagr": 0.07931726250479842,
+      "ann_vol": 0.08969339535057075,
+      "sharpe": 0.8843155306450744,
+      "sharpe_mean_std": 0.8960113702063883,
+      "max_drawdown": -0.1531114693129374,
+      "tickers_traded": 70,
+      "avg_gross_exposure": 0.5736011616650533,
+      "annual_turnover": 5.7742884801548895,
+      "notes": [
+        "HDFC: no price data, proxied by HDFCBANK (1512 member-days)"
+      ]
+    },
+    "pit/ew_hold": {
+      "start": "2018-01-01",
+      "end": "2026-05-15",
+      "days": 2066,
+      "total_return": 1.9303264384354621,
+      "cagr": 0.1401237705709526,
+      "ann_vol": 0.1719546366319701,
+      "sharpe": 0.814888003693996,
+      "sharpe_mean_std": 0.8494446305115275,
+      "max_drawdown": -0.39144717807310114,
+      "tickers_traded": 71,
+      "avg_gross_exposure": 0.9995159728944824,
+      "annual_turnover": 0.22443368828654411,
+      "notes": [
+        "HDFC: no price data, proxied by HDFCBANK (1512 member-days)"
+      ]
+    },
+    "current/sma": {
+      "start": "2018-01-01",
+      "end": "2026-05-15",
+      "days": 2066,
+      "total_return": 1.5949230978214786,
+      "cagr": 0.12334398637444544,
+      "ann_vol": 0.09193737515798357,
+      "sharpe": 1.3416087435876138,
+      "sharpe_mean_std": 1.3114130253643734,
+      "max_drawdown": -0.12869297147131897,
+      "tickers_traded": 50,
+      "avg_gross_exposure": 0.580367860600194,
+      "annual_turnover": 5.476669893514038,
+      "notes": []
+    },
+    "current/ew_hold": {
+      "start": "2018-01-01",
+      "end": "2026-05-15",
+      "days": 2066,
+      "total_return": 3.7299978801800497,
+      "cagr": 0.20869311862168738,
+      "ann_vol": 0.16814236646002081,
+      "sharpe": 1.2411691533514149,
+      "sharpe_mean_std": 1.212421204159163,
+      "max_drawdown": -0.36592787051354825,
+      "tickers_traded": 50,
+      "avg_gross_exposure": 0.9712778315585677,
+      "annual_turnover": 0.12197483059051313,
+      "notes": []
+    }
+  }
+}

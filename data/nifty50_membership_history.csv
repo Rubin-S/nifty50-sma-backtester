@@ -1,0 +1,84 @@
+index_id,index_name,symbol,valid_from,valid_to,weightage,source,source_url,notes
+217,Nifty 50,JPASSOCIAT,2014-01-01,2014-03-28,,snapshot_floor,,closed by ind_prs27022014.pdf
+217,Nifty 50,RANBAXY,2014-01-01,2014-03-28,,snapshot_floor,,closed by ind_prs27022014.pdf
+217,Nifty 50,MCDOWELL-N,2014-03-28,2014-09-19,,press_release,https://niftyindices.com/Press_Release/ind_prs27022014.pdf,closed by ind_prs20082014.pdf
+217,Nifty 50,DLF,2014-01-01,2015-03-27,,snapshot_floor,,closed by ind_prs20022015.pdf
+217,Nifty 50,JINDALSTEL,2014-01-01,2015-03-27,,snapshot_floor,,closed by ind_prs20022015.pdf
+217,Nifty 50,NMDC,2014-01-01,2015-09-28,,snapshot_floor,,closed by ind_prs12082015.pdf
+217,Nifty 50,BHEL,2014-01-01,2017-03-31,,snapshot_floor,,closed by ind_prs16022017.pdf
+217,Nifty 50,IDEA,2015-03-27,2017-03-31,,press_release,https://niftyindices.com/Press_Release/ind_prs20022015.pdf,closed by ind_prs16022017.pdf
+217,Nifty 50,GRASIM,2014-01-01,2017-05-26,,snapshot_floor,,closed by ind_prs27042017.pdf
+217,Nifty 50,ACC,2014-01-01,2017-09-29,,snapshot_floor,,closed by ind_prs28082017.pdf
+217,Nifty 50,BANKBARODA,2014-01-01,2017-09-29,,snapshot_floor,,closed by ind_prs28082017.pdf
+217,Nifty 50,TATAPOWER,2014-01-01,2017-09-29,,snapshot_floor,,closed by ind_prs28082017.pdf
+217,Nifty 50,AMBUJACEM,2014-01-01,2018-04-02,,snapshot_floor,,closed by ind_prs21022018.pdf
+217,Nifty 50,AUROPHARMA,2014-01-01,2018-04-02,,snapshot_floor,,closed by ind_prs21022018.pdf
+217,Nifty 50,BOSCHLTD,2014-01-01,2018-04-02,,snapshot_floor,,closed by ind_prs21022018.pdf
+217,Nifty 50,LUPIN,2014-01-01,2018-09-28,,snapshot_floor,,closed by ind_prs28082018.pdf
+217,Nifty 50,HINDPETRO,2017-09-29,2019-03-29,,press_release,https://niftyindices.com/Press_Release/ind_prs28082017.pdf,closed by ind_prs25022019.pdf
+217,Nifty 50,SAMMAANCAP,2017-03-31,2019-09-27,,press_release,https://niftyindices.com/Press_Release/ind_prs16022017.pdf,closed by ind_prs28082019.pdf
+217,Nifty 50,YESBANK,2015-03-27,2020-03-27,,press_release,https://niftyindices.com/Press_Release/ind_prs20022015.pdf,closed by ind_prs18022020.pdf
+217,Nifty 50,VEDL,2017-05-26,2020-07-31,,press_release,https://niftyindices.com/Press_Release/ind_prs27042017.pdf,closed by ind_prs02072020_1.pdf
+217,Nifty 50,INDUSTOWER,2014-01-01,2020-09-25,,snapshot_floor,,closed by ind_prs20082020.pdf
+217,Nifty 50,ZEEL,2014-09-19,2020-09-25,,press_release,https://niftyindices.com/Press_Release/ind_prs20082014.pdf,closed by ind_prs20082020.pdf
+217,Nifty 50,GAIL,2014-01-01,2021-03-31,,snapshot_floor,,closed by ind_prs23022021.pdf
+217,Nifty 50,IOC,2017-03-31,2022-03-31,,press_release,https://niftyindices.com/Press_Release/ind_prs16022017.pdf,closed by ind_prs24022022_1.pdf
+217,Nifty 50,SHREECEM,2020-03-27,2022-09-30,,press_release,https://niftyindices.com/Press_Release/ind_prs18022020.pdf,closed by ind_prs01092022.pdf
+217,Nifty 50,HDFC,2014-01-01,2023-07-13,,snapshot_floor,,closed by ind_prs04072023.pdf
+217,Nifty 50,UPL,2017-09-29,2024-03-28,,press_release,https://niftyindices.com/Press_Release/ind_prs28082017.pdf,closed by ind_prs28022024.pdf
+217,Nifty 50,DIVISLAB,2020-09-25,2024-09-30,,press_release,https://niftyindices.com/Press_Release/ind_prs20082020.pdf,closed by ind_prs23082024.pdf
+217,Nifty 50,LTM,2023-07-13,2024-09-30,,press_release,https://niftyindices.com/Press_Release/ind_prs04072023.pdf,closed by ind_prs23082024.pdf
+217,Nifty 50,BPCL,2014-01-01,2025-03-28,,snapshot_floor,,closed by ind_prs21022025.pdf
+217,Nifty 50,BRITANNIA,2019-03-29,2025-03-28,,press_release,https://niftyindices.com/Press_Release/ind_prs25022019.pdf,closed by ind_prs21022025.pdf
+217,Nifty 50,HEROMOTOCO,2014-01-01,2025-09-30,,snapshot_floor,,closed by ind_prs22082025.pdf
+217,Nifty 50,INDUSINDBK,2014-01-01,2025-09-30,,snapshot_floor,,closed by ind_prs22082025.pdf
+217,Nifty 50,AXISBANK,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,TMPV,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,WIPRO,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,HINDALCO,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,POWERGRID,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,HDFCBANK,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,ITC,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,SBIN,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,INFY,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,HINDUNILVR,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,BHARTIARTL,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,CIPLA,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,RELIANCE,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,KOTAKBANK,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,MARUTI,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,EICHERMOT,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,ULTRACEMCO,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,COALINDIA,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,ICICIBANK,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,M&M,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,LT,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,DRREDDY,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,TATASTEEL,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,ONGC,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,NTPC,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,BAJAJ-AUTO,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,TCS,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,SUNPHARMA,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,ASIANPAINT,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,HCLTECH,2014-01-01,,,snapshot_floor,,
+217,Nifty 50,TECHM,2014-03-28,,,press_release,https://niftyindices.com/Press_Release/ind_prs27022014.pdf,
+217,Nifty 50,ADANIPORTS,2015-09-28,,,press_release,https://niftyindices.com/Press_Release/ind_prs12082015.pdf,
+217,Nifty 50,BAJFINANCE,2017-09-29,,,press_release,https://niftyindices.com/Press_Release/ind_prs28082017.pdf,
+217,Nifty 50,BAJAJFINSV,2018-04-02,,,press_release,https://niftyindices.com/Press_Release/ind_prs21022018.pdf,
+217,Nifty 50,GRASIM,2018-04-02,,,press_release,https://niftyindices.com/Press_Release/ind_prs21022018.pdf,
+217,Nifty 50,TITAN,2018-04-02,,,press_release,https://niftyindices.com/Press_Release/ind_prs21022018.pdf,
+217,Nifty 50,JSWSTEEL,2018-09-28,,,press_release,https://niftyindices.com/Press_Release/ind_prs28082018.pdf,
+217,Nifty 50,NESTLEIND,2019-09-27,,,press_release,https://niftyindices.com/Press_Release/ind_prs28082019.pdf,
+217,Nifty 50,HDFCLIFE,2020-07-31,,,press_release,https://niftyindices.com/Press_Release/ind_prs02072020_1.pdf,
+217,Nifty 50,SBILIFE,2020-09-25,,,press_release,https://niftyindices.com/Press_Release/ind_prs20082020.pdf,
+217,Nifty 50,TATACONSUM,2021-03-31,,,press_release,https://niftyindices.com/Press_Release/ind_prs23022021.pdf,
+217,Nifty 50,APOLLOHOSP,2022-03-31,,,press_release,https://niftyindices.com/Press_Release/ind_prs24022022_1.pdf,
+217,Nifty 50,ADANIENT,2022-09-30,,,press_release,https://niftyindices.com/Press_Release/ind_prs01092022.pdf,
+217,Nifty 50,SHRIRAMFIN,2024-03-28,,,press_release,https://niftyindices.com/Press_Release/ind_prs28022024.pdf,
+217,Nifty 50,BEL,2024-09-30,,,press_release,https://niftyindices.com/Press_Release/ind_prs23082024.pdf,
+217,Nifty 50,TRENT,2024-09-30,,,press_release,https://niftyindices.com/Press_Release/ind_prs23082024.pdf,
+217,Nifty 50,JIOFIN,2025-03-28,,,press_release,https://niftyindices.com/Press_Release/ind_prs21022025.pdf,
+217,Nifty 50,ETERNAL,2025-03-28,,,press_release,https://niftyindices.com/Press_Release/ind_prs21022025.pdf,
+217,Nifty 50,INDIGO,2025-09-30,,,press_release,https://niftyindices.com/Press_Release/ind_prs22082025.pdf,
+217,Nifty 50,MAXHEALTH,2025-09-30,,,press_release,https://niftyindices.com/Press_Release/ind_prs22082025.pdf,
